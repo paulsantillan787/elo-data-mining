@@ -1,2 +1,4 @@
 /src
 /venv
+.python-version
+/data
